@@ -1,2 +1,3 @@
 # TIC-TAK-TOE-GAME
-This is a 'TIC TAK TOE' Game.
+This is my First Project.
+This is a basic 'TIC TAK TOE' Game.
